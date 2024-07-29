@@ -1,0 +1,5 @@
+{
+  "solc": "0.8.26",
+  "compile_force_framework": "hardhat",
+  "solc_remaps": ["@openzeppelin=node_modules/@openzeppelin"]
+}
